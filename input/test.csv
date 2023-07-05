@@ -1,0 +1,9 @@
+Inadequate risk analysis may lead to unforeseen consequences and potential disruptions to the system or operations.
+"Without a well-defined test plan, changes may be implemented without proper validation, leading to errors or failures."
+"Lack of clear and detailed work notes can hamper traceability, troubleshooting, and knowledge transfer during and after change implementation."
+"Inconsistent or unspecified Configuration Item values can lead to confusion, miscommunication, and inaccurate impact analysis."
+"Insufficient or vague descriptions and implementation plans can result in misinterpretation, improper execution, and delays."
+Ambiguity regarding the responsible person for change implementation can lead to miscommunication and accountability issues.
+"Changes implemented outside the designated change window may cause conflicts, disruptions, and increased risks to operations."
+"Absence of timestamps in implementation steps can hinder accurate tracking, troubleshooting, and historical analysis of change activities."
+Unclear or missing blackout and fallback plans can result in inadequate response and recovery strategies during critical periods or unexpected issues.

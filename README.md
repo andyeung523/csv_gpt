@@ -19,7 +19,8 @@ Before running the code, configure the following variables in the code:
 - `SLEEP_TIME`: The number of seconds to wait between API calls to avoid exceeding the API rate limits.
 - `INPUT_PATH`: The path to the input CSV file.
 - `OUTPUT_PATH`: The path to the output CSV file.
-
+- `PROMPT`: An instruction or discussion topic a user provides for the ChatGPT AI model to respond to.
+- `CONTEXT`: An background information for the ChatGPT AI model to respond to.
 ## Usage
 
 To use this code, follow these steps:
@@ -35,6 +36,8 @@ openai.api_key = ""
 SLEEP_TIME=2
 INPUT_PATH="input\\test.csv"
 OUTPUT_PATH="output\\output.csv"
+PROMPT="For the following risk, suggest one recommendation"
+CONTEXT="You are a helpful assistant for an IT consulting company."
 ```
 3. Prepare the input CSV file with one column of data.
 4. Set the `prompt` variable in the code to the desired prompt for the GPT-3.5-Turbo model.

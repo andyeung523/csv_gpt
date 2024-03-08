@@ -1,9 +1,15 @@
-Inadequate risk analysis may lead to unforeseen consequences and potential disruptions to the system or operations.
-"Without a well-defined test plan, changes may be implemented without proper validation, leading to errors or failures."
-"Lack of clear and detailed work notes can hamper traceability, troubleshooting, and knowledge transfer during and after change implementation."
-"Inconsistent or unspecified Configuration Item values can lead to confusion, miscommunication, and inaccurate impact analysis."
-"Insufficient or vague descriptions and implementation plans can result in misinterpretation, improper execution, and delays."
-Ambiguity regarding the responsible person for change implementation can lead to miscommunication and accountability issues.
-"Changes implemented outside the designated change window may cause conflicts, disruptions, and increased risks to operations."
-"Absence of timestamps in implementation steps can hinder accurate tracking, troubleshooting, and historical analysis of change activities."
-Unclear or missing blackout and fallback plans can result in inadequate response and recovery strategies during critical periods or unexpected issues.
+"Test Case 1: Testing if a function returns the correct output for a given input.
+Input: 5
+Expected Output: 25"
+"Test Case 2: Testing if a function handles edge cases correctly.
+Input: 0
+Expected Output: 0"
+"Test Case 3: Testing if a function handles negative numbers correctly.
+Input: -3
+Expected Output: 9"
+"Test Case 4: Testing if a function handles string inputs correctly.
+Input: ""hello""
+Expected Output: ""olleh"""
+"Test Case 5: Testing if a function handles empty input correctly.
+Input: """"
+Expected Output: """""

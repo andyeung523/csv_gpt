@@ -1,9 +1,21 @@
-"Recommendation: Conduct a thorough risk analysis before implementing any changes or new systems to identify and assess potential risks. This should include identifying the impact and likelihood of each risk, as well as determining appropriate mitigation strategies. It is also important to regularly review and update the risk analysis to account for any changes in the system or operations."
-"Recommendation: Develop and implement a standardized test plan that includes clear objectives, test cases, and acceptance criteria for every change or update made to the system. This will ensure that changes are thoroughly tested and validated before being implemented, reducing the risk of errors and failures."
-"Recommendation: Implement a standardized documentation process for all changes and ensure that all relevant information, such as the reason for the change, steps taken, and any issues encountered, is recorded in a clear and detailed manner. This will ensure easy traceability, troubleshooting, and knowledge transfer for both current and future IT staff. Additionally, encourage IT staff to regularly update and review work notes to keep them accurate and up to date."
-"Recommendation: Implement a standardized configuration management process and tool that ensures consistent and well-defined values for Configuration Items (CIs). This includes clearly documenting and communicating the naming, identification, and categorization conventions for CIs, as well as regularly auditing and validating the accuracy of CI information."
-"Recommendation: Clearly define and document all project requirements, including detailed descriptions and implementation plans. This will help minimize misinterpretations, ensure proper execution, and reduce the risk of delays. Additionally, establish regular communication channels with stakeholders to address any questions or concerns and provide clarification as needed."
-"Recommendation: Clearly define and communicate the roles and responsibilities of all stakeholders involved in the change implementation process. This can be done through the creation of a comprehensive and well-documented change management plan outlining each individual's responsibilities at every stage of the implementation. Regular meetings and communication channels should also be established to ensure clear and effective communication among the responsible parties. Additionally, it is important to have a designated change management team or coordinator who will oversee and manage the implementation process, ensuring that everyone is aware of their role and accountable for their actions."
-"Recommendation: Establish and enforce strict change management processes and policies that clearly define the designated change window for implementing changes. This should include gaining approval from relevant stakeholders, conducting thorough testing and impact assessments, and communicating any changes to all affected parties. Additionally, implementing automated change management tools can help track and ensure that all changes are being implemented within the designated change window."
-"Recommendation: Implement a standardized documentation process that includes timestamping for all implementation steps. This will ensure accurate tracking, troubleshooting, and historical analysis of change activities."
-"Recommendation: Develop and document comprehensive blackout and fallback plans that outline clear procedures and strategies for response and recovery during critical periods or unexpected issues. This should include identifying key personnel responsible for executing the plans, clearly defining communication channels and protocols, conducting periodic drills and tests to ensure effectiveness, and regularly reviewing and updating the plans to reflect any changes in technology or infrastructure."
+"def test_function_01():
+    input = 5
+    expected_output = 25
+
+    assert test_function(input) == expected_output"
+"def test_function_01():
+    assert test_function(0) == 0"
+"def test_function_01():
+    input_num = -3
+    expected_output = 9
+
+    assert test_function(input_num) == expected_output"
+"def test_function_01():
+    input_str = ""hello""
+    expected_output = ""olleh""
+    assert function_name(input_str) == expected_output"
+"def test_function_01():
+    input = """"
+    expected_output = """"
+    
+    assert test_function(input) == expected_output"
